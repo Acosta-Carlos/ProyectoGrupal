@@ -1,4 +1,10 @@
 package oscurilandia;
+/**
+ * @author Carlos Acosta 
+ * @see 
+ * @version 20 / 02 / 2020
+ *
+ */
 
 import java.util.Scanner; 
 

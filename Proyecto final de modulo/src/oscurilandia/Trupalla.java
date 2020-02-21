@@ -1,6 +1,6 @@
 package oscurilandia;
 /**
- * @author carlos
+ * @author Carlos Acosta 
  * @see 
  * @version 20 / 02 / 2020
  *
@@ -11,6 +11,7 @@ package oscurilandia;
 public class Trupalla extends Carro{
 
 	//------------------------------------------------------------------ Atributos
+	
 	private int nivelArmadura;
 	private String nombreChofer;
 	

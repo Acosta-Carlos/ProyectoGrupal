@@ -1,8 +1,6 @@
 package oscurilandia;
-
-
 /**
- * @author carlos
+ * @author Carlos Acosta
  * @see 
  * @version 20 / 02 / 2020
  *
