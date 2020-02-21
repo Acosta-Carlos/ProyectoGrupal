@@ -282,7 +282,7 @@ public class Espacio {
 		
 		
 		
-		for (int i=0;i<listaCarro.length-1;i++) {
+		for (int i=0;i<listaCarro.length;i++) {
 			System.out.println("iteracion " + i);
 			System.out.println("Revisando carro " + listaCarro[i].toString());
 			System.out.println(listaCarro[i].getClass().toString());
